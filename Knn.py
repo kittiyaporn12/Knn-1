@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 # st.header('sunisa') 
 st.title('การจำแนกขอมูลด้วย Machine Learning')
-st.image("./img/1.jpg")
+
 
 col1, col2, col3 = st.columns(3)
 
